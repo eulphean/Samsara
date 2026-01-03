@@ -1,0 +1,37 @@
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+.vscode
+.vs
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+__pycache__/
+# Unreal Engine Workshops
+# Imported External Content (Materials, Models, Textures, Worlds)
+# These are currently unused in the core levels in the project. All the used assets from these
+# packages in the main level are currently migrated into the core Samsara folder and checked into Github.
+Content/Imported_Assets/
+# DO NOT CHECKING ANY OF THE MESHES - These are large files.
+Content/Samsara/Mesh/
+# DO NOT CHECKING ANY MEDIA FILES - These are large files.
+Content/Samsara/Media/
+Content/__ExternalActors__/
+Content/__ExternalObjects__/
+Content/Characters/
+Content/ThirdPerson/
+Content/FirstPerson/
+Content/FirstPersonArms/
+Content/FPWeapon/
+Content/Developers/
+Content/Collections/
+Content/LevelPrototyping/
+Content/AssetPacks/
+Content/StarterContent/
+Content/Scene_UnfinishedBuilding/
